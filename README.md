@@ -43,19 +43,7 @@ Scribe Flow is a powerful and intuitive project journaling tool designed to help
 - Modify entries **anytime**, delete if needed, and keep your workflow **seamless**.
 
 ## 📌 Get Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/scribe-flow.git
-   ```
-2. Install dependencies:
-   ```sh
-   cd scribe-flow
-   npm install
-   ```
-3. Start the application:
-   ```sh
-   npm run dev
-   ```
+- Visit the **live link** and create an account to **get started**.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
