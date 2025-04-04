@@ -26,7 +26,7 @@ Scribe Flow is a powerful and intuitive project journaling tool designed to help
 - Auto-save functionality ensures you **never lose progress**.
 
 ## 🛠 How It Works
-➡️ [Visit the live app](https://scribe-flow-wa2a.vercel.app/) and create an account to get started!
+➡️ [Visit the live link](https://scribe-flow-wa2a.vercel.app/) and create an account to get started!
 
 ### 1️⃣ Sign Up
 - Create an account and **get started**.
